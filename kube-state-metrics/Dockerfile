@@ -1,1 +1,2 @@
-kube-state-metrics:v2.6.0
+FROM kube-state-metrics:v2.6.0
+MAINTAINER Q
