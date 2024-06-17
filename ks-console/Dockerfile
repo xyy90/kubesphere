@@ -1,1 +1,3 @@
-ks-console:v3.4.1
+
+FROM kubesphere/ks-console:v3.4.1
+MAINTAINER Q
